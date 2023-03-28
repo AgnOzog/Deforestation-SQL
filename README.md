@@ -1,4 +1,4 @@
-# Project Deforastation Udacity
+# Project Deforestation Udacity
 
 ## Summary
 
